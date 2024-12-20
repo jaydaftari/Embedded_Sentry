@@ -1,7 +1,7 @@
 // Team members
 // Jay Daftari(jd5829)
 // Akshat Mishra(am15111)
-// Chirranjeavi Murthi(cm6855)
+// Chirranjeavi Moorthi(cm6855)
 // Header files
 #include <mbed.h>
 #include "math.h"
